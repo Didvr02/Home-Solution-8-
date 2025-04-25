@@ -1,13 +1,9 @@
-# 🎓 Java Design Patterns Project: Iterator & Mediator
-
-This repository contains two fully implemented design pattern demos in Java:
+# Homework 8
 
 1. **Streaming‑Service Binge Mode** (Iterator Pattern)
 2. **Airport Tower Simulator** (Mediator Pattern)
 
-Each part demonstrates a real-world scenario where the corresponding design pattern provides flexibility, maintainability, and code clarity.
 
----
 
 ## 📦 Part 1 – Iterator Pattern: "Streaming‑Service Binge Mode"
 
