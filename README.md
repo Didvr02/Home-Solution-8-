@@ -75,3 +75,5 @@ Decouples aircraft from each other
 Centralizes coordination logic in a single place (ControlTower)
 
 Easily handles complex rules (e.g., emergency handling)
+
+
